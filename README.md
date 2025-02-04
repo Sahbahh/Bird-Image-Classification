@@ -67,3 +67,7 @@ The final network consists of **three convolutional blocks**, each with:
    conda create --name pytorch_project python=3.8
    conda activate pytorch_project
    pip install torch torchvision numpy scipy matplotlib
+
+
+## 📚 Acknowledgments
+This project was developed as part of CMPT412 at SFU.
